@@ -88,10 +88,10 @@ Each HTML page has its own dedicated CSS file:
 
 ## Student Information
 
-**Student Name:** [Your Name Here]  
-**Course:** SheCanCode Web Development  
+**Student Name:** MURERWA Francoise  
+**Course:** Advanced Frontend Development  
 **Assignment:** Assignment 2 — HTML & CSS Mastery  
-**Year:** 2025
+**Year:** 2026
 
 ---
 
